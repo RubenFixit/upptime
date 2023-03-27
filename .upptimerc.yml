@@ -20,5 +20,7 @@ sites:
 status-website:
   cname: status.rubenfixit.com
   logoUrl: https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png
-  introTitle: "RubenFixit Server Status"
-  introMessage: Status of servers managed by RubenFixit
+  name: RubenFixit Status
+  introTitle: "RubenFixit's Servers Status"
+  introMessage: The uptime status of servers managed by RubenFixit
+  theme: dark
