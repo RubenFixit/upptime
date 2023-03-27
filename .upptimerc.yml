@@ -9,9 +9,6 @@ sites:
   - name: URL Shortner (rfix.me)
     url: https://rfix.me/test
     icon: https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png
-  - name: Plex Website (plex.rubenfixit.com)
-    url: $PLEX_WEBSITE_URL
-    icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico
   - name: Plex Server
     url: $PLEX_SERVER_URL
     icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico
