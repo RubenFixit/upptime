@@ -5,12 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Website (rubenfixit.com)
     url: https://rubenfixit.com
+    icon: https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png
   - name: URL Shortner (rfix.me)
     url: https://rfix.me/test
+    icon: https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png
   - name: Plex Website (plex.rubenfixit.com)
     url: https://plex.rubenfixit.com
+    icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico
   - name: Plex Server
     url: https://tcloud.dev:32400/system?X-Plex-Token=$PLEX_TOKEN
+    icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,9 +25,6 @@ status-website:
   name: RubenFixit Status
   introTitle: "RubenFixit Server Status"
   introMessage: Status of servers managed by RubenFixit
-  navbar:
-    - title: Status
-      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
