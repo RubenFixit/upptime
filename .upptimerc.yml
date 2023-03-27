@@ -15,6 +15,7 @@ sites:
   - name: Plex Server
     url: $PLEX_SERVER_URL
     icon: https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico
+    __dangerous__disable_verify_host: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
