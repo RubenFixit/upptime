@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 386,
-    "timeWeek": 386,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "time": 298,
+    "timeDay": 298,
+    "timeWeek": 298,
+    "timeMonth": 298,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 310,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 243,
+    "timeDay": 243,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.rubenfixit.com.ico",
     "slug": "plex-website-plex-rubenfixit-com",
     "status": "down",
-    "uptime": "3.58%",
-    "uptimeDay": "3.58%",
-    "uptimeWeek": "3.58%",
-    "uptimeMonth": "3.58%",
-    "uptimeYear": "3.58%",
-    "time": 367,
-    "timeDay": 367,
-    "timeWeek": 367,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 2748,
+    "timeDay": 2748,
+    "timeWeek": 2748,
+    "timeMonth": 2748,
+    "timeYear": 2748,
     "dailyMinutesDown": {
-      "2023-03-27": 0
+      "2023-03-27": 19
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tcloud.dev.ico",
     "slug": "plex-server",
     "status": "down",
-    "uptime": "7.76%",
-    "uptimeDay": "7.76%",
-    "uptimeWeek": "7.76%",
-    "uptimeMonth": "7.76%",
-    "uptimeYear": "7.76%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 0
+      "2023-03-27": 19
     }
   }
 ]
