@@ -2,7 +2,7 @@
   {
     "name": "Website (rubenfixit.com)",
     "url": "https://rubenfixit.com",
-    "icon": "https://icons.duckduckgo.com/ip3/rubenfixit.com.ico",
+    "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "website-rubenfixit-com",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 298,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 331,
+    "timeDay": 331,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
     "name": "URL Shortner (rfix.me)",
     "url": "https://rfix.me/test",
-    "icon": "https://icons.duckduckgo.com/ip3/rfix.me.ico",
+    "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "url-shortner-rfix-me",
     "status": "up",
     "uptime": "100.00%",
@@ -38,41 +38,41 @@
   {
     "name": "Plex Website (plex.rubenfixit.com)",
     "url": "https://plex.rubenfixit.com",
-    "icon": "https://icons.duckduckgo.com/ip3/plex.rubenfixit.com.ico",
+    "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
     "slug": "plex-website-plex-rubenfixit-com",
+    "status": "down",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 1945,
+    "timeDay": 1945,
+    "timeWeek": 1945,
+    "timeMonth": 1945,
+    "timeYear": 1945,
+    "dailyMinutesDown": {
+      "2023-03-27": 25
+    }
+  },
+  {
+    "name": "Plex Server",
+    "url": "https://tcloud.dev:32400/system?X-Plex-Token=$PLEX_TOKEN",
+    "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
+    "slug": "plex-server",
     "status": "down",
     "uptime": "0.04%",
     "uptimeDay": "0.04%",
     "uptimeWeek": "0.04%",
     "uptimeMonth": "0.04%",
     "uptimeYear": "0.04%",
-    "time": 2748,
-    "timeDay": 2748,
-    "timeWeek": 2748,
-    "timeMonth": 2748,
-    "timeYear": 2748,
-    "dailyMinutesDown": {
-      "2023-03-27": 19
-    }
-  },
-  {
-    "name": "Plex Server",
-    "url": "https://tcloud.dev:32400/system?X-Plex-Token=$PLEX_TOKEN",
-    "icon": "https://icons.duckduckgo.com/ip3/tcloud.dev.ico",
-    "slug": "plex-server",
-    "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 19
+      "2023-03-27": 24
     }
   }
 ]
