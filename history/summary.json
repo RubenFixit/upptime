@@ -42,7 +42,7 @@
     "url": "$PLEX_SERVER_URL",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +54,7 @@
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2023-04-12": 0,
       "2023-03-27": 40
     }
   }
