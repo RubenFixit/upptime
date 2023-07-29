@@ -1,7 +1,7 @@
 url: https://rubenfixit.com
-status: up
-code: 200
-responseTime: 272
-lastUpdated: 2023-07-29T08:34:42.884Z
+status: down
+code: 503
+responseTime: 276
+lastUpdated: 2023-07-29T09:45:57.066Z
 startTime: Mon Mar 27 2023 22:00:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
