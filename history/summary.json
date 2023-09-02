@@ -6,17 +6,16 @@
     "slug": "website-rubenfixit-com",
     "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "94.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "94.40%",
     "uptimeYear": "98.64%",
     "time": 483,
-    "timeDay": 1077,
-    "timeWeek": 922,
-    "timeMonth": 829,
+    "timeDay": 662,
+    "timeWeek": 933,
+    "timeMonth": 854,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2023-09-01": 11,
       "2023-08-31": 32,
       "2023-08-29": 65,
       "2023-08-25": 31,
@@ -35,7 +34,7 @@
       "2023-07-31": 166,
       "2023-07-30": 152,
       "2023-07-29": 65,
-      "2023-07-28": 91
+      "2023-07-28": 108
     }
   },
   {
@@ -50,9 +49,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.92%",
     "time": 377,
-    "timeDay": 368,
-    "timeWeek": 414,
-    "timeMonth": 357,
+    "timeDay": 348,
+    "timeWeek": 405,
+    "timeMonth": 359,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2023-08-04": 32,
@@ -73,9 +72,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.80%",
     "time": 316,
-    "timeDay": 166,
-    "timeWeek": 221,
-    "timeMonth": 206,
+    "timeDay": 230,
+    "timeWeek": 220,
+    "timeMonth": 207,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2023-08-12": 154,
