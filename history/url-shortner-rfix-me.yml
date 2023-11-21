@@ -1,7 +1,7 @@
 url: https://rfix.me/test
-status: down
-code: 503
-responseTime: 324
-lastUpdated: 2023-11-21T10:43:41.366Z
+status: up
+code: 200
+responseTime: 359
+lastUpdated: 2023-11-21T18:14:27.442Z
 startTime: 2023-03-27T22:00:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
