@@ -4,16 +4,16 @@
     "url": "https://rubenfixit.com",
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "website-rubenfixit-com",
-    "status": "up",
-    "uptime": "97.19%",
-    "uptimeDay": "14.22%",
-    "uptimeWeek": "15.63%",
-    "uptimeMonth": "73.63%",
-    "uptimeYear": "97.19%",
+    "status": "down",
+    "uptime": "97.24%",
+    "uptimeDay": "15.72%",
+    "uptimeWeek": "15.85%",
+    "uptimeMonth": "74.11%",
+    "uptimeYear": "97.24%",
     "time": 477,
-    "timeDay": 383,
-    "timeWeek": 440,
-    "timeMonth": 420,
+    "timeDay": 378,
+    "timeWeek": 439,
+    "timeMonth": 419,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2024-01-07": 660,
@@ -25,7 +25,7 @@
       "2024-01-01": 1181,
       "2023-12-31": 1276,
       "2023-12-30": 1201,
-      "2023-12-29": 1134
+      "2023-12-29": 926
     }
   },
   {
@@ -64,7 +64,7 @@
     "slug": "plex-server",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "97.09%",
+    "uptimeDay": "98.52%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.84%",
