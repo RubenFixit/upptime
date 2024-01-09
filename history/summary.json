@@ -4,14 +4,14 @@
     "url": "https://rubenfixit.com",
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "website-rubenfixit-com",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "12.23%",
-    "uptimeWeek": "14.17%",
-    "uptimeMonth": "75.96%",
-    "uptimeYear": "97.46%",
+    "status": "down",
+    "uptime": "97.47%",
+    "uptimeDay": "12.97%",
+    "uptimeWeek": "14.28%",
+    "uptimeMonth": "76.11%",
+    "uptimeYear": "97.47%",
     "time": 478,
-    "timeDay": 456,
+    "timeDay": 459,
     "timeWeek": 454,
     "timeMonth": 436,
     "timeYear": 478,
@@ -24,8 +24,7 @@
       "2024-01-04": 1268,
       "2024-01-03": 1270,
       "2024-01-02": 1128,
-      "2024-01-01": 1181,
-      "2023-12-31": 63
+      "2024-01-01": 1181
     }
   },
   {
