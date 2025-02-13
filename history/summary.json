@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1284,
-    "timeDay": 2944,
-    "timeWeek": 2029,
-    "timeMonth": 1935,
-    "timeYear": 1752,
+    "time": 1286,
+    "timeDay": 1703,
+    "timeWeek": 1884,
+    "timeMonth": 1940,
+    "timeYear": 1756,
     "dailyMinutesDown": {
       "2024-12-29": 46,
       "2024-12-21": 28,
@@ -26,8 +26,7 @@
       "2024-10-06": 20,
       "2024-06-09": 104,
       "2024-04-11": 20,
-      "2024-04-02": 65,
-      "2024-02-14": 81
+      "2024-04-02": 65
     }
   },
   {
@@ -42,9 +41,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
     "time": 520,
-    "timeDay": 196,
-    "timeWeek": 430,
-    "timeMonth": 396,
+    "timeDay": 263,
+    "timeWeek": 427,
+    "timeMonth": 389,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2025-02-09": 20,
@@ -60,8 +59,7 @@
       "2024-05-12": 34,
       "2024-04-11": 19,
       "2024-03-27": 16,
-      "2024-02-21": 24,
-      "2024-02-14": 81
+      "2024-02-21": 24
     }
   },
   {
@@ -70,16 +68,16 @@
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "69.99%",
+    "uptime": "70.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "46.94%",
-    "time": 322,
-    "timeDay": 512,
-    "timeWeek": 434,
-    "timeMonth": 444,
-    "timeYear": 418,
+    "uptimeYear": "47.21%",
+    "time": 323,
+    "timeDay": 254,
+    "timeWeek": 437,
+    "timeMonth": 439,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2025-01-31": 29,
       "2025-01-20": 107,
@@ -285,8 +283,7 @@
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
-      "2024-02-15": 1440,
-      "2024-02-14": 1440
+      "2024-02-15": 1440
     }
   }
 ]
