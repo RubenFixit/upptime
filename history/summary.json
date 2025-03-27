@@ -5,16 +5,16 @@
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "website-rubenfixit-com",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1426,
-    "timeDay": 1833,
-    "timeWeek": 2052,
-    "timeMonth": 2144,
-    "timeYear": 1952,
+    "time": 1427,
+    "timeDay": 535,
+    "timeWeek": 1946,
+    "timeMonth": 2024,
+    "timeYear": 1953,
     "dailyMinutesDown": {
       "2025-02-19": 21,
       "2024-12-29": 46,
@@ -36,15 +36,15 @@
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "url-shortner-rfix-me",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
     "time": 515,
-    "timeDay": 402,
-    "timeWeek": 362,
-    "timeMonth": 382,
+    "timeDay": 322,
+    "timeWeek": 363,
+    "timeMonth": 386,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2025-02-28": 17,
@@ -59,8 +59,7 @@
       "2024-06-09": 103,
       "2024-05-22": 25,
       "2024-05-12": 34,
-      "2024-04-11": 19,
-      "2024-03-27": 16
+      "2024-04-11": 19
     }
   },
   {
@@ -69,15 +68,15 @@
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "71.71%",
+    "uptime": "71.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.72%",
+    "uptimeYear": "58.99%",
     "time": 344,
-    "timeDay": 331,
-    "timeWeek": 362,
-    "timeMonth": 415,
+    "timeDay": 317,
+    "timeWeek": 330,
+    "timeMonth": 408,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2025-01-31": 29,
@@ -242,8 +241,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   }
 ]
