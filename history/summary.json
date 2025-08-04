@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 2007,
-    "timeDay": 666,
-    "timeWeek": 1634,
-    "timeMonth": 1788,
-    "timeYear": 1977,
+    "timeDay": 1610,
+    "timeWeek": 1757,
+    "timeMonth": 1784,
+    "timeYear": 1975,
     "dailyMinutesDown": {
       "2025-07-02": 79,
       "2025-06-10": 23,
@@ -50,9 +50,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
     "time": 485,
-    "timeDay": 308,
-    "timeWeek": 528,
-    "timeMonth": 552,
+    "timeDay": 315,
+    "timeWeek": 438,
+    "timeMonth": 547,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2025-07-08": 15,
@@ -81,15 +81,15 @@
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "75.82%",
+    "uptime": "75.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "88.70%",
+    "uptimeYear": "88.97%",
     "time": 461,
-    "timeDay": 535,
-    "timeWeek": 418,
-    "timeMonth": 421,
+    "timeDay": 426,
+    "timeWeek": 412,
+    "timeMonth": 427,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2025-07-30": 54,
@@ -148,8 +148,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   }
 ]
