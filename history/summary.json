@@ -4,17 +4,17 @@
     "url": "https://rubenfixit.com",
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "website-rubenfixit-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 2247,
-    "timeDay": 1703,
-    "timeWeek": 2207,
-    "timeMonth": 3487,
-    "timeYear": 2307,
+    "time": 2246,
+    "timeDay": 922,
+    "timeWeek": 1949,
+    "timeMonth": 3389,
+    "timeYear": 2301,
     "dailyMinutesDown": {
       "2025-06-10": 23,
       "2025-07-02": 79,
@@ -29,7 +29,8 @@
       "2026-04-10": 21,
       "2026-04-17": 24,
       "2026-04-29": 50,
-      "2026-05-12": 41
+      "2026-05-12": 41,
+      "2026-06-09": 0
     }
   },
   {
@@ -37,17 +38,17 @@
     "url": "https://rfix.me/test",
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "url-shortner-rfix-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 459,
-    "timeDay": 334,
-    "timeWeek": 339,
-    "timeMonth": 474,
-    "timeYear": 455,
+    "timeDay": 277,
+    "timeWeek": 324,
+    "timeMonth": 466,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2025-06-24": 24,
       "2025-07-02": 78,
@@ -59,7 +60,8 @@
       "2025-09-04": 33,
       "2025-11-14": 20,
       "2026-04-19": 18,
-      "2026-04-29": 49
+      "2026-04-29": 49,
+      "2026-06-09": 0
     }
   },
   {
@@ -68,7 +70,7 @@
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "81.99%",
+    "uptime": "82.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
