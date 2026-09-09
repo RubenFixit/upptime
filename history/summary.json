@@ -31,16 +31,16 @@
     "url": "https://rfix.me/test",
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "url-shortner-rfix-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.92%",
     "time": 444,
-    "timeDay": 435,
+    "timeDay": 357,
     "timeWeek": 812,
-    "timeMonth": 508,
+    "timeMonth": 514,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2025-11-14": 20,
@@ -53,7 +53,8 @@
       "2026-08-15": 18,
       "2026-08-27": 89,
       "2026-09-05": 21,
-      "2026-09-06": 20
+      "2026-09-06": 20,
+      "2026-09-09": 0
     }
   },
   {
@@ -62,7 +63,7 @@
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "83.30%",
+    "uptime": "83.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
