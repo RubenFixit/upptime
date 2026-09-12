@@ -33,13 +33,13 @@
     "slug": "url-shortner-rfix-me",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.92%",
     "time": 442,
     "timeDay": 187,
-    "timeWeek": 360,
+    "timeWeek": 362,
     "timeMonth": 498,
     "timeYear": 445,
     "dailyMinutesDown": {
@@ -53,8 +53,7 @@
       "2026-08-15": 18,
       "2026-08-27": 89,
       "2026-09-05": 21,
-      "2026-09-06": 20,
-      "2026-09-12": 4
+      "2026-09-06": 20
     }
   },
   {
@@ -62,9 +61,9 @@
     "url": "$PLEX_SERVER_URL",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "83.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
@@ -91,7 +90,8 @@
       "2026-04-26": 433,
       "2026-04-25": 231,
       "2026-04-29": 54,
-      "2026-07-06": 46
+      "2026-07-06": 46,
+      "2026-09-12": 0
     }
   }
 ]
