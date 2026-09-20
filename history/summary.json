@@ -33,10 +33,10 @@
     "slug": "url-shortner-rfix-me",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.92%",
     "time": 442,
     "timeDay": 340,
     "timeWeek": 311,
@@ -55,8 +55,7 @@
       "2026-09-05": 21,
       "2026-09-06": 20,
       "2026-09-15": 18,
-      "2026-09-16": 17,
-      "2026-09-19": 6
+      "2026-09-16": 17
     }
   },
   {
