@@ -63,16 +63,16 @@
     "url": "$PLEX_SERVER_URL",
     "icon": "https://www.plex.tv/wp-content/themes/plex/assets/img/favicons/favicon.ico",
     "slug": "plex-server",
-    "status": "down",
+    "status": "up",
     "uptime": "83.50%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.18%",
     "time": 440,
-    "timeDay": 132,
-    "timeWeek": 288,
-    "timeMonth": 325,
+    "timeDay": 246,
+    "timeWeek": 297,
+    "timeMonth": 326,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-10-29": 41,
@@ -95,7 +95,7 @@
       "2026-07-06": 46,
       "2026-09-24": 275,
       "2026-09-23": 157,
-      "2026-09-25": 0
+      "2026-09-25": 3
     }
   }
 ]
