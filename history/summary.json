@@ -6,15 +6,15 @@
     "slug": "website-rubenfixit-com",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1981,
-    "timeDay": 161,
-    "timeWeek": 229,
-    "timeMonth": 1026,
-    "timeYear": 1887,
+    "time": 1979,
+    "timeDay": 238,
+    "timeWeek": 242,
+    "timeMonth": 1027,
+    "timeYear": 1879,
     "dailyMinutesDown": {
       "2026-02-03": 22,
       "2026-02-12": 23,
@@ -25,8 +25,7 @@
       "2026-05-12": 41,
       "2026-06-09": 55,
       "2026-09-29": 20,
-      "2026-10-01": 17,
-      "2026-11-17": 8
+      "2026-10-01": 17
     }
   },
   {
@@ -36,15 +35,15 @@
     "slug": "url-shortner-rfix-me",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "98.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.83%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.81%",
     "time": 575,
-    "timeDay": 220,
-    "timeWeek": 611,
-    "timeMonth": 1629,
-    "timeYear": 604,
+    "timeDay": 329,
+    "timeWeek": 609,
+    "timeMonth": 1648,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2026-04-19": 18,
       "2026-04-29": 49,
@@ -69,8 +68,7 @@
       "2026-10-30": 47,
       "2026-10-31": 53,
       "2026-11-01": 102,
-      "2026-11-12": 118,
-      "2026-11-17": 3
+      "2026-11-12": 118
     }
   },
   {
@@ -85,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
     "time": 414,
-    "timeDay": 112,
-    "timeWeek": 261,
-    "timeMonth": 318,
-    "timeYear": 387,
+    "timeDay": 673,
+    "timeWeek": 319,
+    "timeMonth": 332,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2026-01-03": 419,
       "2026-01-23": 21,
