@@ -33,16 +33,16 @@
     "url": "https://rfix.me/test",
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "url-shortner-rfix-me",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.83%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.82%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.81%",
-    "time": 576,
-    "timeDay": 329,
-    "timeWeek": 609,
-    "timeMonth": 1648,
+    "time": 574,
+    "timeDay": 311,
+    "timeWeek": 589,
+    "timeMonth": 1630,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2026-04-19": 18,
@@ -69,7 +69,7 @@
       "2026-10-31": 53,
       "2026-11-01": 102,
       "2026-11-12": 118,
-      "2026-11-18": 0
+      "2026-11-18": 1
     }
   },
   {
