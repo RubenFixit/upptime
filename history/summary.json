@@ -4,17 +4,17 @@
     "url": "https://rubenfixit.com",
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "website-rubenfixit-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "93.68%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "93.34%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.82%",
-    "time": 1413,
-    "timeDay": 308,
+    "time": 1412,
+    "timeDay": 305,
     "timeWeek": 204,
     "timeMonth": 343,
-    "timeYear": 1224,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2026-02-03": 22,
       "2026-02-12": 23,
@@ -33,7 +33,7 @@
       "2026-11-22": 187,
       "2026-11-23": 110,
       "2026-11-24": 31,
-      "2026-11-25": 39
+      "2026-11-25": 74
     }
   },
   {
@@ -41,16 +41,16 @@
     "url": "https://rfix.me/test",
     "icon": "https://rubenfixit.com/wp-content/uploads/2021/05/cropped-rubenfixit-favicon-32x32.png",
     "slug": "url-shortner-rfix-me",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "99.76%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "99.75%",
     "time": 536,
-    "timeDay": 712,
+    "timeDay": 688,
     "timeWeek": 317,
-    "timeMonth": 827,
+    "timeMonth": 824,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2026-04-19": 18,
@@ -82,7 +82,7 @@
       "2026-11-20": 27,
       "2026-11-22": 87,
       "2026-11-23": 76,
-      "2026-11-25": 29
+      "2026-11-25": 64
     }
   },
   {
